@@ -1,0 +1,2 @@
+P-value for Taze Ligase4 KO vs DMSO Ligase4 KO is: 3.767202e-10
+P-value for Vale Ligase4 KO vs DMSO Ligase4 KO is: 0.001394205
